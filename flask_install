@@ -1,5 +1,7 @@
 #!/bin/bash
 # Flask Installation
+# -->chmod 700 flask_install
+# -->./flask_install
 
 sudo easy_install Flask
 
